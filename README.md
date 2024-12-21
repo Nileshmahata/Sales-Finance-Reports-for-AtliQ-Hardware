@@ -78,23 +78,11 @@ Identify potential business expansion opportunities in promising countries. 🌟
 
 
 ## 📂 Included Files:
-
-The following documents are included in this repository:
-
-1. Customer Performance Report.pdf
- 🛒
-
-2. Market Performance vs Target Report.pdf
- 🌍
-
-3. P&L Statement by Fiscal Year.pdf
- 📆
-
-4. P&L Statement by Markets.pdf
- 🌎
-
-5. P&L Statement by Months.pdf
- 📆
+1. [**Customer Performance Report.pdf**](Customer%20Performance%20Report.pdf)
+2. [**Market Performance vs Target Report.pdf**](Market%20Performance%20vs%20Target%20Report.pdf)
+3. [**P&L Statement by Fiscal Year.pdf**](P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+4. [**P&L Statement by Markets.pdf**](P%26L%20Statement%20by%20Markets.pdf)
+5. [**P&L Statement by Months.pdf**](P%26L%20Statement%20by%20Months.pdf)
 
 ## 📖 Usage Instructions:
 
